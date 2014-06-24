@@ -1,2 +1,3 @@
-改变git文件里面的内容
-变化能看到不
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
